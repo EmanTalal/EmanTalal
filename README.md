@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @EmanTalal 
-- 👀 I’m interested in mobile application development
+- Senior CS Student At Imam Mohammad Ibn Saud Islamic University.
+-   Hi, I’m @EmanTalal 
+- I’m interested in mobile application development
 -  I’m currently learning Web develment and Python 
 - Ask me about Java
 - 📫 How to reach me emantalal.201999@gmail.com
