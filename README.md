@@ -1,8 +1,8 @@
-- Senior CS Student At Imam Mohammad Ibn Saud Islamic University.
+I'm A computer Science , with experience in building Production-ready software.  
 -   Hi, I’m @EmanTalal 
-- I’m interested in mobile application development
--  I’m currently learning Web develment and Python 
-- Ask me about Java
+- I’m interested in mobile application development and Machine Learning 
+-  I’m currently learning Web develment and JavaScript 
+- Ask me about Java & Kotlin programming 
 - 📫 How to reach me emantalal.201999@gmail.com
 
 <!---
